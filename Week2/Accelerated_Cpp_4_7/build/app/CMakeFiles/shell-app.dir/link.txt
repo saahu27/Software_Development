@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -g  -rdynamic CMakeFiles/shell-app.dir/Accelerated_cpp_4_7.cpp.o  -o shell-app 
