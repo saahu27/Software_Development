@@ -1,5 +1,0 @@
-/home/sahu27/Software_Development/Week2/Accelerated_Cpp_3_5/build/CMakeFiles/rebuild_cache.dir
-/home/sahu27/Software_Development/Week2/Accelerated_Cpp_3_5/build/CMakeFiles/edit_cache.dir
-/home/sahu27/Software_Development/Week2/Accelerated_Cpp_3_5/build/app/CMakeFiles/rebuild_cache.dir
-/home/sahu27/Software_Development/Week2/Accelerated_Cpp_3_5/build/app/CMakeFiles/edit_cache.dir
-/home/sahu27/Software_Development/Week2/Accelerated_Cpp_3_5/build/app/CMakeFiles/two-app.dir
