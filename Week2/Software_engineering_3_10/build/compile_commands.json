@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sahu27/Software_Development/Week2/Software_engineering_3_10/build/app",
+  "command": "/usr/bin/g++   -I/home/sahu27/Software_Development/Week2/Software_engineering_3_10/include  -Wall -Wextra -Wpedantic -g -g   -std=gnu++14 -o CMakeFiles/shell-app.dir/Software_Engineering_3_10.cpp.o -c /home/sahu27/Software_Development/Week2/Software_engineering_3_10/app/Software_Engineering_3_10.cpp",
+  "file": "/home/sahu27/Software_Development/Week2/Software_engineering_3_10/app/Software_Engineering_3_10.cpp"
+}
+]

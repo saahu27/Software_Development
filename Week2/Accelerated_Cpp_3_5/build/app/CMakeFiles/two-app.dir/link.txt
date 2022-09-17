@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -g  -rdynamic CMakeFiles/two-app.dir/main.cpp.o  -o two-app 
