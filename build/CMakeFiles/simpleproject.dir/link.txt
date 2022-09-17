@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimpleproject.a  CMakeFiles/simpleproject.dir/simpleproject.cpp.o
+/usr/bin/ranlib libsimpleproject.a
