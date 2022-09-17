@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Accelerated_cpp_6_9.hpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+numeric
+-
+
+/home/sahu27/Software_Development/Week2/Accelerated_Cpp_6_9/app/Accelerated_cpp_6_9.cpp
+Accelerated_cpp_6_9.hpp
+/home/sahu27/Software_Development/Week2/Accelerated_Cpp_6_9/app/Accelerated_cpp_6_9.hpp
+
