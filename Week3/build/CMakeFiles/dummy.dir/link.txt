@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/dummy.dir/main.cpp.o  -o dummy 

@@ -41,9 +41,9 @@ void printer::input() {
     char text[1024]="";
     char array_to_search1[4] = "";
     int array_to_search1_length;
-    std::cout<< "Enter the Text:" << std::endl;
+    std::cout<< "Enter the Text without spaces:" << std::endl;
     std::cin>> text;
-    int text_length = 10;
+    int text_length = 1024;
     std::cout<< "Enter the element to search: ";
     std::cin>> array_to_search1;
     std::cout<< "Enter the length of search element: ";

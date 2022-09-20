@@ -32,5 +32,5 @@ char* text, char* array_to_search1, int position1);
     printer();
 };
 
- printer::printer(void){
+printer::printer(void) {
 }
