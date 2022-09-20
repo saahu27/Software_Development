@@ -61,7 +61,7 @@ void studentClass::data(int n) {
 int main() {
     // inputs from user
     int n;
-    // object for the class courseGrader
+    // object for the class studentclass
     studentClass studentObj;
 
     std::cout << "Enter number of student to be inserted: ";

@@ -17,7 +17,8 @@ using namespace std;
 void student::display() {
     std::cout << "Displaying Student data:\n";
     for (unsigned int i = 0; i < student_data.name.size(); i++) {
-      std::cout << "Student Name: " << student_data.name[i] << ", " << "Overall Grade:" << student_data.finalGrade[i] << std::endl;
+      std::cout << "Student Name: " << student_data.name[i] << std::endl;
+      std::cout << "Overall Grade:" << student_data.finalGrade[i] << std::endl;
     }
   }
 

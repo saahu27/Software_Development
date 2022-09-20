@@ -1,5 +1,11 @@
-/* copyright
-*/
+/**
+ *  @copyright (c) 2021 Sahruday
+ *  @file    AcceleratedCpp4-7.hpp
+ *  @author  Sahruday 
+ *
+ *  @brief Header
+ *
+ */
 
 #pragma once
 
@@ -8,7 +14,7 @@
 
 float Average(std::vector<double> vec) {
     int size = vec.size();
-    double avg;
+    double avg = 0.0;
     for (auto i = 0; i < size; i++) {
         avg += vec[i];
     }
