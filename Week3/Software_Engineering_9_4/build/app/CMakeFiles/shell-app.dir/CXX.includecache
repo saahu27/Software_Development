@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-../include/Software_Engineering_9_4.hpp
+/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/app/Software_Engineering_9_4.cpp
+/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/include/Software_Engineering_9_4.hpp
+-
+
+/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/include/Software_Engineering_9_4.hpp
 iostream
+-
+numeric
 -
 string
 -
 vector
 -
-numeric
--
-
-/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/app/Software_Engineering_9_4.cpp
-Software_Engineering_9_4.hpp
-/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/app/Software_Engineering_9_4.hpp
 

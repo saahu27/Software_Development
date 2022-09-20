@@ -6,5 +6,5 @@ CXX_FLAGS = -Wall -Wextra -Wpedantic -g   -Wall -Wextra -Wpedantic -g -Wall -Wsh
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/vendor/googletest/googletest/include -I/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/vendor/googletest/googletest 
+CXX_INCLUDES = -I/home/sahu27/Software_Development/Week3/Software_Engineering_9_4 -I/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/vendor/googletest/googletest/include -I/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/vendor/googletest/googletest 
 
