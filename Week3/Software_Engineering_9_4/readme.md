@@ -14,6 +14,7 @@ Simple starter C++ project with:
 ```
 git clone --recursive https://github.com/saahu27/Software_Development
 cd <path to repository> week4
+mkdir build
 cd build
 cmake ..
 make

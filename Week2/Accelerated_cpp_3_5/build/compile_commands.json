@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sahu27/Software_Development/Week2/Accelerated_cpp_3_5/build/app",
-  "command": "/usr/bin/c++   -I/home/sahu27/Software_Development/Week2/Accelerated_cpp_3_5/include  -Wall -Wextra -Wpedantic -g   -std=gnu++14 -o CMakeFiles/shell-app.dir/Accelerated_cpp_3_5.cpp.o -c /home/sahu27/Software_Development/Week2/Accelerated_cpp_3_5/app/Accelerated_cpp_3_5.cpp",
-  "file": "/home/sahu27/Software_Development/Week2/Accelerated_cpp_3_5/app/Accelerated_cpp_3_5.cpp"
-}
-]

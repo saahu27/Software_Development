@@ -12,7 +12,7 @@ Simple starter C++ project with:
 
 ## Standard install via command-line
 ```
-git clone --recursive https://github.com/dpiet/cpp-boilerplate
+git clone --recursive https://github.com/saahu27/Software_Development/tree/master/Week2/Accelerated_Cpp_4_5
 cd <path to repository>
 mkdir build
 cd build
