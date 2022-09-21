@@ -12,9 +12,11 @@ Simple starter C++ project with:
 
 ## Standard install via command-line
 ```
+<<<<<<< HEAD
 git clone --recursive https://github.com/saahu27/Software_Development/tree/master/Week2/Software_engineering_3_10
+=======
+>>>>>>> 3db0e42821f477dceea87afcada99567cdcae130
 cd <path to repository>
-mkdir build
 cd build
 cmake ..
 make

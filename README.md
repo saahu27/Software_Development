@@ -1,6 +1,9 @@
 # Software_Development
 
-Find the code for programming assignments in the week 2 directory. Navigate to build directory of each folder and run the following commands to execute the program
-
-Run tests: ./test/cpp-test
+git clone --recursive https://github.com/saahu27/Software_Development                                                                                                     
+cd <path to repository>   for each assignment go to that folder                                                                                                                                      
+cd build                                                                                                                                                                 
+cmake ..                                                                                                                                                                 
+make                                                                                                                                                                     
+Run tests: ./test/cpp-test                                                                                                                                               
 Run program: ./app/shell-app

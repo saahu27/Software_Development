@@ -12,13 +12,18 @@ Simple starter C++ project with:
 
 ## Standard install via command-line
 ```
+<<<<<<< HEAD
 git clone --recursive https://github.com/saahu27/Software_Development/tree/master/Week2/Accelerated_Cpp_4_5
 cd <path to repository>
+=======
+git clone --recursive https://github.com/saahu27/Software_Development                                                                                                     
+cd <path to repository>                                                                                                                                                   
+>>>>>>> 3db0e42821f477dceea87afcada99567cdcae130
 mkdir build
-cd build
-cmake ..
-make
-Run tests: ./test/cpp-test
+cd build                                                                                                                                                                 
+cmake ..                                                                                                                                                                 
+make                                                                                                                                                                     
+Run tests: ./test/cpp-test                                                                                                                                               
 Run program: ./app/shell-app
 ```
 
