@@ -12,9 +12,7 @@ Simple starter C++ project with:
 
 ## Standard install via command-line
 ```
-git clone --recursive https://github.com/dpiet/cpp-boilerplate
 cd <path to repository>
-mkdir build
 cd build
 cmake ..
 make
