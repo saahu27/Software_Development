@@ -12,13 +12,13 @@ Simple starter C++ project with:
 
 ## Standard install via command-line
 ```
-git clone --recursive https://github.com/dpiet/cpp-boilerplate
-cd <path to repository>
+git clone --recursive https://github.com/saahu27/Software_Development                                                                                                     
+cd <path to repository>                                                                                                                                                   
 mkdir build
-cd build
-cmake ..
-make
-Run tests: ./test/cpp-test
+cd build                                                                                                                                                                 
+cmake ..                                                                                                                                                                 
+make                                                                                                                                                                     
+Run tests: ./test/cpp-test                                                                                                                                               
 Run program: ./app/shell-app
 ```
 
