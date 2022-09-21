@@ -1,8 +1,7 @@
 # Software_Development
 
 git clone --recursive https://github.com/saahu27/Software_Development                                                                                                     
-cd <path to repository>                                                                                                                                                   
-mkdir build
+cd <path to repository>   for each assignment go to that folder                                                                                                                                      
 cd build                                                                                                                                                                 
 cmake ..                                                                                                                                                                 
 make                                                                                                                                                                     
