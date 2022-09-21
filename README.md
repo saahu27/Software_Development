@@ -1,6 +1,10 @@
 # Software_Development
 
-Find the code for programming assignments in the week 2 directory. Navigate to build directory of each folder and run the following commands to execute the program
-
+git clone --recursive https://github.com/dpiet/cpp-boilerplate
+cd <path to repository>
+mkdir build
+cd build
+cmake ..
+make
 Run tests: ./test/cpp-test
 Run program: ./app/shell-app
