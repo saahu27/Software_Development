@@ -6,7 +6,7 @@
  *  @brief Extraction of printPosition and code reusablility
  *
  */
-#include "/home/sahu27/Software_Development/Week3/Software_Engineering_9_4/include/Software_Engineering_9_4.hpp"
+#include "Software_Engineering_9_4.hpp"
 
 /**
  * @brief
@@ -39,10 +39,10 @@ void printer::printPosition(int text_length, int array_to_search1_length,
 void printer::input() {
   char text[1024] = "";
   char array_to_search1[4] = "";
+  int text_length = 10;
   int array_to_search1_length;
   std::cout << "Enter the Text without spaces:" << std::endl;
   std::cin >> text;
-  int text_length = 1024;
   std::cout << "Enter the element to search: ";
   std::cin >> array_to_search1;
   std::cout << "Enter the length of search element: ";

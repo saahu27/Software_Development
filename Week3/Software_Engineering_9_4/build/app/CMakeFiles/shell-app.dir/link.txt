@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -Wpedantic -g  -rdynamic CMakeFiles/shell-app.dir/Software_Engineering_9_4.cpp.o  -o shell-app 
+/usr/bin/c++  -g -O0 -fprofile-arcs -ftest-coverage -g  -fprofile-arcs -ftest-coverage -rdynamic CMakeFiles/shell-app.dir/Software_Engineering_9_4.cpp.o  -o shell-app 
