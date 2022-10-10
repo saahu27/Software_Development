@@ -42,7 +42,7 @@ valgrind --leak-check=full ./app/shell-app
 to run the kcache GUI
 ```
 kcachegrind callgrind.out.11032
-111
+```
 
 
 - Git
