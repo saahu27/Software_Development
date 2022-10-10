@@ -31,12 +31,17 @@ make code_coverage
 ```
 This generates a index.html page in the build/coverage sub-directory that can be viewed locally in a web browser.
 
-##Valgrindnavigate to build directory ;
+##Valgrindnavigate to build directory :
+
 ```
 valgrind --tool=callgrind ./app/shell-app
 ```
 ```
 valgrind --leak-check=full ./app/shell-app
+```
+for valgrind output :
+```
+valgrind ./app/shell-app
 ```
 
 to run the kcache GUI
