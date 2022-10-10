@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sahu27/Software_Development/Week3/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/dummy.dir/main.cpp.o -c /home/sahu27/Software_Development/Week3/main.cpp",
-  "file": "/home/sahu27/Software_Development/Week3/main.cpp"
-}
-]

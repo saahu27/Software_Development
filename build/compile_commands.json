@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sahu27/Software_Development/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/simpleproject.dir/simpleproject.cpp.o -c /home/sahu27/Software_Development/simpleproject.cpp",
-  "file": "/home/sahu27/Software_Development/simpleproject.cpp"
-}
-]

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sahu27/cpp-boilerplate/app/build",
-  "command": "/usr/bin/g++   -I/home/sahu27/cpp-boilerplate/app/include  -g   -o CMakeFiles/shell-app.dir/main.o -c /home/sahu27/cpp-boilerplate/app/main.cpp",
-  "file": "/home/sahu27/cpp-boilerplate/app/main.cpp"
-}
-]
